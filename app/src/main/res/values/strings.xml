@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RefShare</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="submit">Sign Up</string>
+    <string name="login">Already have an account? Sign In</string>
+    <string name="signin">Sign In</string>
+    <string name="signup">Don\'t have and account? Sign Up</string>
+</resources>
