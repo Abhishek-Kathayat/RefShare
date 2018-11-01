@@ -6,4 +6,11 @@
     <string name="login">Already have an account? Sign In</string>
     <string name="signin">Sign In</string>
     <string name="signup">Don\'t have and account? Sign Up</string>
+    <string name="hello">Hello,</string>
+    <string name="username">Username</string>
+    <string name="refcode">Code</string>
+    <string name="code">XXXXX</string>
+    <string name="points">Points</string>
+    <string name="pointsnum">100</string>
+    <string name="share">Share</string>
 </resources>
