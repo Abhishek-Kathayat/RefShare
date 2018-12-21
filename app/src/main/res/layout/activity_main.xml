@@ -30,9 +30,9 @@
             android:textStyle="bold"
             android:textAllCaps="false"
             android:textColor="@color/colorGreyDark"
-            android:textSize="33sp"
+            android:textSize="35sp"
             android:layout_below="@id/textview_hello"
-            android:layout_marginStart="25dp"/>
+            android:layout_marginStart="30dp"/>
 
         <TextView
             android:id="@+id/textview_referralcode"
@@ -40,11 +40,11 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/refcode"
-            android:textSize="35sp"
+            android:textSize="32sp"
             android:textColor="@color/colorPrimary"
             android:textStyle="bold"
             android:textAllCaps="false"
-            android:layout_marginStart="20dp"
+            android:layout_marginStart="25dp"
             android:layout_marginTop="35dp"/>
 
         <TextView
@@ -67,11 +67,11 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/points"
-            android:textSize="35sp"
+            android:textSize="32sp"
             android:textColor="@color/colorPrimary"
             android:textStyle="bold"
             android:textAllCaps="false"
-            android:layout_marginStart="20dp"
+            android:layout_marginStart="25dp"
             android:layout_marginTop="35dp"/>
 
         <TextView
